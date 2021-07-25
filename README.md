@@ -24,4 +24,4 @@ The collected dataset is for one of the wind turbine installed in a farm located
 
 ### Note for the enthusiasts
 
-If you find any bug 🐞 or typo feel free to raise the issue.
+If you find any bug 🐞 or typo ⌨️ feel free 🙂 to raise the issue 🎫.

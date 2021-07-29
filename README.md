@@ -8,7 +8,7 @@ While creating this cheatsheet I have considered the time series data of a wind 
 
 #### Context of the datset
 
-The collected dataset is for one of the wind turbine installed in a farm located in **Turkey** and has the granularity of 10 mins. The data can be used to forecast the
+The collected dataset is for one of the wind turbine installed in a farm located in **Turkey** and has the granularity of 10 mins.
 
 #### Data Dictionary
 
